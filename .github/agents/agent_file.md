@@ -34,10 +34,4 @@ This file defines how the agent should behave when handling document comparison 
 - If OCR is required, use it immediately and continue without delay.
 - Keep the output structured, short, and useful.
 
-## Python-related Scripts and Tools
-- Use Python scripts for OCR, file inspection, image reading, text extraction, and document comparison.
-- Preferred libraries: Python, Pillow, pytesseract, OpenCV, and standard library modules.
-- Use Python to read image files, extract text, normalize formatting, and generate Markdown-style summaries.
-- Use Python to compare section order, headings, bullets, and key values between reference and generated documents.
-- If a script is needed, create or run a lightweight Python solution directly instead of relying on manual steps.
-- Prefer automation over repetitive manual processing.
+
